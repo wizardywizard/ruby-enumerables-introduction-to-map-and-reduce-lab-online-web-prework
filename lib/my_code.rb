@@ -9,7 +9,8 @@ end
 return neg
 end
 
-def 
+def map_to_no_change(source_array)
+end
 
 def reduce_to_total(source_array, starting_point = 0)
   i = 0
