@@ -9,3 +9,5 @@ end
 return neg
 end
 
+def reduce_to_total
+end
