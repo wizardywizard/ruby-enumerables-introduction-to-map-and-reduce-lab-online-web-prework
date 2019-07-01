@@ -16,6 +16,7 @@ def map_to_no_change(source_array)
     no.push(source_array)
     i += 1
   end
+  return no
 end
 
 def reduce_to_total(source_array, starting_point = 0)
