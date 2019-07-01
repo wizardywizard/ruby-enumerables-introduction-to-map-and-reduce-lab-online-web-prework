@@ -10,6 +10,8 @@ return neg
 end
 
 def map_to_no_change(source_array)
+  no = []
+  i = 0
 end
 
 def reduce_to_total(source_array, starting_point = 0)
