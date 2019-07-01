@@ -58,7 +58,7 @@ i = 0
     end
     i += 1
   end
-  return starting_point
+  return source_array
 end
 
 
