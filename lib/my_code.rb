@@ -53,6 +53,7 @@ i = 0
   while i < source_array.length do
     if source_array == true
       return true
+    else return false
     i += 1
   end
   return starting_point
